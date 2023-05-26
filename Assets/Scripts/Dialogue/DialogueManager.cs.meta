@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 043b61978388312448e91f0ed062c89b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inkJSON: {instanceID: 0}
+  - dialogueText: {fileID: 2219322665331952916, guid: 668620647b8adc44da029401c88b3a11, type: 3}
+  - choiceButton: {fileID: 3091919877126790517, guid: ed635936978764548a35e82f449dd8a2, type: 3}
+  - dialogueContentWrapper: {instanceID: 0}
+  - continuePointerPrefab: {fileID: 1698695765036854555, guid: d3d8bc866db5a034c897e9d1050159d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
